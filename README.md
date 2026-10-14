@@ -28,6 +28,8 @@ La experiencia comienza con un libro de cuero azul cerrado sobre una mesa antigu
 
 Esta versión abre por defecto en un modo especial para escenarios donde el sector derecho de la proyección está obstruido. El libro conserva las dos hojas y el efecto 3D, pero ocupa menos ancho y se alinea dentro del 72 % izquierdo de la pantalla. La selección queda guardada en el navegador.
 
+En este modo, el clic se calcula respecto del centro real del libro desplazado: la hoja izquierda retrocede y la hoja derecha avanza. Los controles superiores cuentan con espacios independientes para evitar superposiciones.
+
 Para una presentación sin obstáculos, pulsa **Vista normal**. En teléfonos, el libro continúa usando automáticamente una sola hoja y ocupa el centro de la pantalla.
 
 ## Archivos
